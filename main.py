@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-import numpy as np
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel, VitsModel, AutoTokenizer
 import torch
 import yolov5
