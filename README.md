@@ -43,3 +43,21 @@ To launch the app, run the following command:
 
 ```bash
 streamlit run app.py
+```
+
+## Dependencies
+
+The app relies on the following libraries and frameworks:
+
+- [Streamlit](https://streamlit.io/)
+- [PIL (Python Imaging Library)](https://python-pillow.org/)
+- [Transformers (Hugging Face)](https://huggingface.co/transformers/)
+- [PyTorch](https://pytorch.org/)
+- [YOLOv5](https://github.com/ultralytics/yolov5)
+
+## Testing
+
+You can test the app [here](https://huggingface.co/spaces/Amine-0047/license_plate_detection) on the Hugging Face Spaces platform.
+
+
+![Screenshot](screenshots/app.png)
